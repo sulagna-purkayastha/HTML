@@ -1,0 +1,18 @@
+#marg{
+    width:1000px;
+    height:200px;
+    font-size: 22px 
+}
+#div1{
+    border-width:10px 20px 2px 7px;
+}
+#name{
+    color: black;
+    text-align:center;
+    font-size: 30px;
+}
+.address{
+    color: black;
+    text-align:right;
+
+}
